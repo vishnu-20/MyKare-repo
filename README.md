@@ -10,6 +10,7 @@ Add User
 POST : http://localhost:9090/user
 
 Request :
+
 {
    "firstName": "vishnu",
    "lastName": "lal",
