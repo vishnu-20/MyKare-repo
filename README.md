@@ -11,12 +11,11 @@ POST : http://localhost:9090/user
 
 Request :
 {
-    "firstName": "vishnu",
-    "lastName": "lal",
+   "firstName": "vishnu",
+   "lastName": "lal",
    "gender": "male",
-     "email": "vishnu@gmail1.com",
-    "password": "Vishnu@123"
-  
+   "email": "vishnu@gmail1.com",
+   "password": "Vishnu@123" 
 }
 
 Get All
